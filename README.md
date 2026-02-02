@@ -6,8 +6,8 @@ This project is designed to practice responsive web design and frontend developm
 
 ---
 
-## 🔗 Live Demo
-(Add your deployed link here, for example: manojverse.ccbp.tech)
+## Live Demo
+(Add your deployed link here, for example: https://manojverse.ccbp.tech/)
 
 ---
 
