@@ -7,7 +7,7 @@ This project is designed to practice responsive web design and frontend developm
 ---
 
 ## Live Demo
-https://manojverse.ccbp.tech/
+https://dishdelight.ccbp.tech/
 
 ---
 
